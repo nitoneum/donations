@@ -9,3 +9,7 @@ BECH32: bc1q93yrdcde5ll64uadfzrgdupn5ga0rnr0l76pvk [View QR](https://www.blockch
 ## Ethereum
 
 Ether: 0x907e37fb6B2F8CB45842484f1c58B3f25cE44d6f
+
+## Litecoin
+
+LTC: LMe7YBNxdGVwZBD12WnLwVWuTroE3jpEv8 [View QR](https://blockchair.com/litecoin/address/LMe7YBNxdGVwZBD12WnLwVWuTroE3jpEv8)
