@@ -13,7 +13,7 @@ BECH32: bc1q93yrdcde5ll64uadfzrgdupn5ga0rnr0l76pvk
 
 ## Ethereum
 
-<img alt="Ethereum" src="https://chart.googleapis.com/chart?chs=170x170&cht=qr&chl=ethereum:0x907e37fb6B2F8CB45842484f1c58B3f25cE44d6&choe=UTF-8">
+<img alt="Ethereum" src="https://chart.googleapis.com/chart?chs=170x170&cht=qr&chl=ethereum:0x907e37fb6B2F8CB45842484f1c58B3f25cE44d6f&choe=UTF-8">
 0x907e37fb6B2F8CB45842484f1c58B3f25cE44d6f
 
 ## Litecoin
